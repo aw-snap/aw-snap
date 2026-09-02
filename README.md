@@ -8,18 +8,18 @@
 </p>
 
 <p align="center">
-  <img src="http://ssh.awsnap.dev/globe/card.svg" width="820" alt="live fastfetch-style card: NZ time, uptime, languages, and what I'm listening to right now"/>
+  <img src="http://ssh.awsnap.dev/globe/card.svg" width="820" alt="live fastfetch-style card: NZ time, uptime, and the languages I use"/>
 </p>
 
 <p align="center">
-  <img src="http://ssh.awsnap.dev/globe/pet.svg" width="820" alt="Blip, the Dabble Creature — a tamagotchi fed by my commits"/>
+  <img src="http://ssh.awsnap.dev/globe/music.svg" width="820" alt="what I'm listening to right now, via Last.fm"/>
 </p>
 
 <p align="center">
-  <a href="https://awsnap.dev/globe/click"><img src="https://awsnap.dev/globe/cookie.svg" width="820" alt="a clickable cookie — click it to bake one; the tally is a real shared counter"/></a>
+  <a href="https://awsnap.dev/globe/treat"><img src="https://awsnap.dev/globe/blip.svg" width="820" alt="Blip, the Dabble Creature — levels up with my commits; click to give Blip a cookie"/></a>
 </p>
 
 <details>
   <summary><sub>· · ·</sub></summary>
-  <p align="center"><sub>oh, you found the fine print. everything above is served live from a box at home, not by GitHub. have a cookie for your trouble → <a href="https://awsnap.dev/globe/click">🍪</a></sub></p>
+  <p align="center"><sub>oh, you found the fine print. everything above is served live from a box at home, not by GitHub. go on, give Blip another cookie → <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
 </details>
