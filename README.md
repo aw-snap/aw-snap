@@ -20,5 +20,5 @@
 
 <details>
   <summary><sub>· · ·</sub></summary>
-  <p align="center"><sub>oh, you found the fine print. everything above is served live from a box at home, not by GitHub. Blip only reacts for the person who clicked, so go on → <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
+  <p align="center"><sub>you found the fine print!! everything above is served live from my home server, displayed by github. give blip another cookie -> <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
 </details>
