@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="http://ssh.awsnap.dev/globe/card.svg" width="820" alt="live fastfetch-style card: NZ time, uptime, and the languages I use"/>
+  <img src="http://ssh.awsnap.dev/globe/card.svg" width="820" alt="live fastfetch-style card: my setup, languages, hobbies and where to find me"/>
 </p>
 
 <p align="center">
@@ -13,10 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="https://awsnap.dev/globe/treat"><img src="https://awsnap.dev/globe/blip.svg" width="820" alt="Blip, the Dabble Creature — levels up with my commits; click to give Blip a cookie"/></a>
+  <a href="https://awsnap.dev/globe/pet"><img src="https://awsnap.dev/globe/blip.svg" width="820" alt="Blip, my profile's cat — levels up with every cookie, pet and play from visitors. Click the cat to pet it."/></a>
+  <br/>
+  <a href="https://awsnap.dev/globe/treat"><img src="https://awsnap.dev/globe/btn-cookie.svg" width="260" alt="give Blip a cookie"/></a> <a href="https://awsnap.dev/globe/pet"><img src="https://awsnap.dev/globe/btn-pet.svg" width="260" alt="pet Blip"/></a> <a href="https://awsnap.dev/globe/play"><img src="https://awsnap.dev/globe/btn-play.svg" width="260" alt="play with Blip"/></a>
 </p>
 
 <details>
   <summary><sub>· · ·</sub></summary>
-  <p align="center"><sub>oh, you found the fine print. everything above is served live from a box at home, not by GitHub. go on, give Blip another cookie → <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
+  <p align="center"><sub>oh, you found the fine print. everything above is served live from a box at home, not by GitHub. Blip only reacts for the person who clicked, so go on → <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
 </details>
