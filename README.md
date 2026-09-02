@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://awsnap.dev/globe/click"><img src="http://ssh.awsnap.dev/globe/cookie.svg" width="820" alt="a clickable cookie — click it to bake one; the tally is a real counter living on my server"/></a>
+  <a href="https://awsnap.dev/globe/click"><img src="https://awsnap.dev/globe/cookie.svg" width="820" alt="a clickable cookie — click it to bake one; the tally is a real counter living on my server"/></a>
 </p>
 
 <p align="center"><sub>every panel above is generated live on my own server and refreshes on its own — the globe by time of day, the card's “Now ▶” from my Last.fm, the creature from my commit activity. the cookie? that one's yours — click it 🍪</sub></p>
