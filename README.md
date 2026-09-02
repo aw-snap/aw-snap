@@ -1,4 +1,4 @@
-<h1 align="center">Kia ora, I'm Tequin 👋<br/><sub><sub><code>tequin@awsnap</code> · Aotearoa New Zealand</sub></sub></h1>
+<h1 align="center">Kia ora, I'm Tequin 👋<br/><sub><sup><code>tequin@awsnap</code> · Aotearoa New Zealand</sup></sub></h1>
 
 <p align="center">
   <img src="http://ssh.awsnap.dev/globe/globe.avif" width="300" alt="a live-rendered globe, lit for New Zealand's current time of day"/>
