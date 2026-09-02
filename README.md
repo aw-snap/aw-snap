@@ -1,5 +1,5 @@
 <h1 align="center">kia ora, i'm Tequin 👋</h1>
-<p align="center"><code>tequin@dawnstar</code> · Aotearoa New Zealand · <i>"I like to dabble in a few things :D"</i></p>
+<p align="center"><code>tequin@awsnap</code> · Aotearoa New Zealand · <i>"I like to dabble in a few things :D"</i></p>
 
 <p align="center">
   <img src="http://ssh.awsnap.dev/globe/globe.avif" width="300" alt="a live-rendered globe, lit at New Zealand's real current time of day"/>
