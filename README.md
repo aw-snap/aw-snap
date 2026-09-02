@@ -1,9 +1,7 @@
 <h1 align="center">Kia ora, I'm Tequin 👋<br/><sub><sup><code>tequin@awsnap</code> · Aotearoa New Zealand</sup></sub></h1>
 
 <p align="center">
-  <img src="http://ssh.awsnap.dev/globe/globe.avif" width="300" alt="a live-rendered globe, lit for New Zealand's current time of day"/>
-  <br/>
-  <sub>🌏 rendered on my own server · re-rendered hourly for live time-of-day lighting</sub>
+  <img src="http://ssh.awsnap.dev/globe/globe.avif" width="300" alt="a live-rendered globe, lit for New Zealand's current time of day — rendered on my own server, re-rendered hourly"/>
 </p>
 
 <p align="center">
