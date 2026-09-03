@@ -21,5 +21,5 @@
 <details>
   <summary><sub>· · ·</sub></summary>
   <p align="center"><sub>you found the fine print!! everything above is <a href="https://github.com/aw-snap/live-readme">served live from my home server</a>, displayed by github. you should give blip another cookie -> <a href="https://awsnap.dev/globe/treat">🍪</a></sub></p>
-  <p>make sure to give me a follow :D</p> 
+  <p align="center"><sub>make sure to give me a follow :D</sub></p> 
 </details>
